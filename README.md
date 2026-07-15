@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhishek Patel
 
-<!--
-**ABHISHEKPATEL8839/ABHISHEKPATEL8839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | Angular | React | Node.js | Firebase
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer who enjoys building modern web applications and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 BCA Graduate
+* 💻 Interested in Full Stack Web Development
+* 🌱 Currently learning Angular and Firebase
+* 🚀 Building responsive and user-friendly web applications
+* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Angular
+* React
+
+**Backend**
+
+* Node.js
+* Express.js
+* Firebase
+
+**Database**
+
+* MongoDB
+* Firestore
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+## 📂 Featured Projects
+
+### 🎓 Student Management System
+
+* Angular + Firebase application
+* Authentication and Firestore integration
+* Student CRUD operations
+* Responsive admin dashboard
+
+### 🛒 E-commerce Website
+
+* MERN Stack application
+* User authentication
+* Shopping cart
+* Order management
+
+## 📊 GitHub Stats
+
+> You can add GitHub Stats cards from:
+> https://github.com/anuraghazra/github-readme-stats
+
+## 🤝 Connect with Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
