@@ -8,9 +8,9 @@ I'm a passionate Full Stack Developer who enjoys building modern web application
 
 * 🎓 BCA Graduate
 * 💻 Interested in Full Stack Web Development
-* 🌱 Currently learning Angular and Firebase
+* 🌱 Currently working on Angular and Firebase
 * 🚀 Building responsive and user-friendly web applications
-* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me: [abhsiehkpatel71773@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -65,5 +65,5 @@ I'm a passionate Full Stack Developer who enjoys building modern web application
 
 ## 🤝 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* GitHub: https://github.com/ABHISHEKPATEL8839
+* LinkedIn: https://linkedin.com/abhishekpatel
